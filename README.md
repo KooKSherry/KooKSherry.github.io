@@ -1,2 +1,2 @@
 # KooKSherry.github.io
-Coinding and Art
+Coding and Art
